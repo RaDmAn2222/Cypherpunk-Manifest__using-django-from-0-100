@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'Vazirmatn-Bold';
+  src: url("{% static 'fonts/Vazirmatn-Bold.ttf' %}");
+}
+
+@font-face {
+  font-family: 'Vazirmatn_Light';
+  src: url("{% static 'fonts/Vazirmatn-Light.ttf' %}");
+}
+
+section {
+  margin: 0 15%;
+  font-family: 'Vazirmatn_Light', sans-serif;
+}
+
+section img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+section a {
+  color: black;
+  transition: all 0.3s ease;
+  font-family: 'Vazritmatn-Bold';
+}
+
+section a:hover {
+  color: #a1cca5;
+}
+
+body header h1 {
+  font-family: 'Vazirmatn-Bold';
+  background-color: #111d13;
+  border-radius: 15px;
+  color: #fff;
+  padding: 20px;
+}
+
+nav {
+  position: sticky;
+  top: 15px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0 15px;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  font-family: 'Vazirmatn-Bold';
+  text-decoration: none;
+  transition: all 0.3s ease;
+  color: black;
+  font-size: 120%;
+  background-color: #a1cca5;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+nav ul li a:hover {
+  font-size: 150%;
+  transform: scale(1.2);
+}
+
+#main-content {
+   margin-top:20px; 
+   padding: 20px;
+}
+
+footer {
+  background-color: #111d13;
+  border-radius: 15px;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
