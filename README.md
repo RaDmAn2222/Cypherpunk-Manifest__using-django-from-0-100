@@ -5,4 +5,4 @@
 Email: radmanhabibi2222@gmail.com
 
 
-وبسایت ساخته شده توسط: https://radman2222.w3spaces-preview.com/home.html
+کد های html , css که روی سرور W3Schools منتشر شده: https://radman2222.w3spaces.com/home.html
