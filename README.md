@@ -3,3 +3,6 @@
 این وبسایت صرفاً برای تمرین ساخته شده و ارزش دیگری ندارد!
 
 Email: radmanhabibi2222@gmail.com
+
+
+وبسایت ساخته شده توسط W3schools: https://radman2222.w3spaces-preview.com/home.html
